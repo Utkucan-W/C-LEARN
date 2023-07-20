@@ -1,0 +1,2 @@
+﻿  examples.cpp
+C:\Users\utku_\Desktop\utku_\vscode\examplescpp\examplescpp\examples.cpp(7,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
